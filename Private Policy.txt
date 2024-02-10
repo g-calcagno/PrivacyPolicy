@@ -1,0 +1,41 @@
+Privacy Policy for FindPets (Mascotas Perdidas)
+
+Effective Date: 2024-02-10
+
+Welcome to FindPets. This Privacy Policy explains how we collect, use, and safeguard information collected from users of our application.
+
+1. Information Collected
+
+1.1. Facebook Data:
+By using the Facebook login feature, you allow FindPets to access certain data from your Facebook profile. This may include your name, email address, location, and any other information you have set as public on your Facebook profile.
+
+1.2. Pet Information:
+In addition to Facebook data, we may collect information about the pets you wish to publish, such as their name, description, photographs, and location.
+
+2. Use of Information
+
+2.1. Lost Pet Listings:
+The collected information will primarily be used to publish details about lost pets in our application, enabling other users to view and contact you in case they find the pet.
+
+2.2. Communication:
+We may use the provided contact information to communicate with you regarding the application, lost pets, and other related updates.
+
+3. Sharing and Disclosure of Information
+
+3.1. With App Users:
+Lost pet information will be shared with other application users to facilitate the search and recovery of pets.
+
+3.2. With Facebook:
+We may share limited information with Facebook to enhance the application's functionality and ensure compliance with their policies.
+
+4. Information Security
+
+We implement security measures to protect the collected information. However, please note that no transmission of data over the Internet or electronic storage is 100% secure.
+
+5. Changes to the Privacy Policy
+
+We reserve the right to update this policy at any time. We will notify you of significant changes through a notice in the application.
+
+6. Contact
+
+If you have questions about this Privacy Policy, please contact us at gonzalo.calcagno@hotmail.com
