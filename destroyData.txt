@@ -1,0 +1,4 @@
+# Remove DATA User
+You can delete this account in menu > delete account.
+
+This will destroy all your stored data
